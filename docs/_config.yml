@@ -24,7 +24,7 @@ plugins:
 url: ''
 baseurl: ''
 title: 'Effective Altruism UCT'
-description: 'An EA group based in Cape Town South Africa"
+description: 'An EA group based in Cape Town South Africa'
 permalink: pretty
 logo: "assets/images/ea_uct_logo.png"
 
