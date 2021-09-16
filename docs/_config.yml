@@ -26,7 +26,7 @@ baseurl: ''
 title: 'Effective Altruism UCT'
 description: 'An EA group based in Cape Town South Africa'
 permalink: pretty
-logo: "assets/images/ea_uct_logo.png"
+logo: "/assets/images/ea_uct_logo.png"
 
 # Pagination
 paginate: 5
@@ -51,7 +51,7 @@ collections:
     output: true
     description: "Effective Altruism UCT Blog"
     feature_text: 
-    feature_image: "assets/images/cape_town_mountain.jpeg"
+    feature_image: "/assets/images/cape_town_mountain.jpeg"
 
 # Collection settings
 defaults:
