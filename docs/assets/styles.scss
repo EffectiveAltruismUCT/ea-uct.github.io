@@ -1,0 +1,43 @@
+---
+title: false
+styles: true
+---
+
+// Background colours
+$backgroundColour: #ffffff !default;
+$codeBackgroundColour: #fafafa !default;
+$featureBackgroundColour: #f9fafa !default;
+$accentColour: #0C869B !default;
+
+// Text colours
+$headingColour: #0C869B !default;
+$bodyColour: #333333 !default;
+$linkColour: #00B2BE !default;
+$hoverColour: #1B5266 !default;
+$focusColour: #0C869B !default;
+$captionColour: #0C869B !default;
+$white: #ffffff !default;
+
+// Typography
+$bodytype: (
+  font-family: "Raleway, sans-serif",
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: "Raleway, sans-serif",
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+$monospacetype: (
+  font-family: "Raleway, sans-serif",
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
+@import "alembic";
