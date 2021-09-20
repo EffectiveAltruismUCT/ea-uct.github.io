@@ -40,6 +40,8 @@ navigation_header:
   url: /posts/
 - title: Categories
   url: /categories/
+- title: Search
+  url: /search/
 
 # Footer nav
 navigation_footer:
