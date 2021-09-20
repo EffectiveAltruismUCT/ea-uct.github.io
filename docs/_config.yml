@@ -30,14 +30,14 @@ logo: "/assets/images/ea_uct_logo.png"
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: posts/page:num
 
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: Blog
-  url: /blog/
+- title: Posts
+  url: /posts/
 
 # Footer nav
 navigation_footer:
@@ -47,9 +47,9 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: Posts
+    title: Effective Altruism UCT Posts
     output: true
-    description: "Effective Altruism UCT Blog"
+    description: ""
     feature_text: 
     feature_image: "/assets/images/cape_town_mountain.jpeg"
 
