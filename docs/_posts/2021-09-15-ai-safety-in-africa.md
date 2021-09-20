@@ -1,7 +1,7 @@
 ---
 title: What will AI mean for Africa?
 categories:
-- Event
+- Events
 feature_image: "/assets/images/uct_banner.jpeg"
 ---
 
