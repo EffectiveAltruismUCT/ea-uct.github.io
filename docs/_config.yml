@@ -41,6 +41,8 @@ navigation_header:
   url: /posts/
 - title: Categories
   url: /categories/
+- title: Contact Us
+  url: /contact/
 - title: Search
   url: /search/
 
