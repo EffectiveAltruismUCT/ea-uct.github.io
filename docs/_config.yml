@@ -37,9 +37,9 @@ paginate_path: posts/page:num
 navigation_header:
 - title: Home
   url: /
+# - title: Posts
+#   url: /posts/
 - title: Posts
-  url: /posts/
-- title: Categories
   url: /categories/
 - title: Contact Us
   url: /contact/
