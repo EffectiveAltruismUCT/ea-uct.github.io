@@ -15,9 +15,9 @@ AI safety & alignment is about ensuring that intelligent systems we develop act 
 If managed correctly, the arrival of AI could create vast amounts of wealth for humanity. On the flip side, if this technological development is approached callously, the consequences may threaten the future of humanity.
 
 ## Guest Speakers
-**Tyna Eloundou**: OpenAI member of policy staff
-
 **Pelonomi Moiloa**: Data scientist and AI ethics advocate
+
+**Tyna Eloundou**: OpenAI member of policy staff
 
 **Tommie Meyer**: Co-director of the Center for Artificial Intelligence Research
 
