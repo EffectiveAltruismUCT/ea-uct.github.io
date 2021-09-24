@@ -15,15 +15,18 @@ AI safety & alignment is about ensuring that intelligent systems we develop act 
 If managed correctly, the arrival of AI could create vast amounts of wealth for humanity. On the flip side, if this technological development is approached callously, the consequences may threaten the future of humanity.
 
 ## Guest Speakers
-- **Tyna Eloundou**: OpenAI member of policy staff
-- **Pelonomi Moiloa**: Data scientist and AI ethics advocate
-- **Tommie Meyer**: Co-director of the Center for Artificial Intelligence Research
-- **Arnu Pretorius**:Lead AI research scientist at InstaDeep.
+**Tyna Eloundou**: OpenAI member of policy staff
+
+**Pelonomi Moiloa**: Data scientist and AI ethics advocate
+
+**Tommie Meyer**: Co-director of the Center for Artificial Intelligence Research
+
+**Arnu Pretorius**:Lead AI research scientist at InstaDeep.
 
 {% include figure.html image="/assets/images/ai_safety_speakers.png" alt="AI Safety Speakers" %}
 
 ### Moderators
-- Leo Karamanof & Claude Formanek
+Leo Karamanof & Claude Formanek
 
 ## Discussion Agenda
 The discussion will be structured into two sections and will be followed by 30 minutes of audience Q&A with the panellists.
