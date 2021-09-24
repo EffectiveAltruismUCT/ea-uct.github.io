@@ -5,7 +5,7 @@ categories:
 feature_image: "/assets/images/uct_banner.jpeg"
 ---
 
-We hosted this event on the 15th of September 2021.
+This event was hosted on the 15th of September 2021. It was a panel discussion about AI safety and alignment with a focus on the African context.
 
 {% include video.html id="ietOukKPZZ8" %}
 
@@ -19,6 +19,9 @@ If managed correctly, the arrival of AI could create vast amounts of wealth for 
 - **Pelonomi Moiloa**: Data scientist and AI ethics advocate
 - **Tommie Meyer**: Co-director of the Center for Artificial Intelligence Research
 - **Arnu Pretorius**:Lead AI research scientist at InstaDeep.
+
+{% include figure.html image="/assets/images/ai_safety_speakers.png" alt="AI Safety Speakers" %}
+
 ### Moderators
 - Leo Karamanof & Claude Formanek
 
