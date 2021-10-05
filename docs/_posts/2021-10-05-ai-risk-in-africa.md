@@ -4,10 +4,6 @@ categories:
 - Blog
 feature_image: "/assets/images/uct_banner.jpeg"
 ---
-> Author: Claude Formanek
-
-> Acknowledgments: I would like to thank Sumaya Hussein, a law student at Strathmore University in Nairobi, for her insightful contributions on China's influence in Africa. Secondly, I would also like to thank Michael Chen for his valuable feedback.
-
 Artificial intelligence (AI) is a collection of technologies that enable computer programs to act with higher levels of intelligence. From the recommender algorithm on YouTube to self-driving cars, AI can encompass any computer program which exhibits intelligent behavior.
 
 The AI technologies we are familiar with today are properly known as *narrow* AI (or weak AI), since they are usually designed to perform a well-defined (narrow) task *very* well (eg. playing chess or recognising human faces). However, our current AI systems fail to generalise to more than a handful of tasks at a time. The goal for many AI researchers is to one day create a *general* AI (AGI or strong AI) program. That is, a single AI program which is capable of outperforming humans at nearly every cognitive task.
@@ -95,3 +91,7 @@ But in order for this hope to be realised we need our governments to recognise t
 To mitigate the accidental AI risks some researchers are calling for radical changes in how AI research is conducted. In *Human Compatible* Stuart Russel proposes a new framework for AI researchers which addresses the alignment problem. Russel proposes that AI programs should learn *human preferences* rather than how to *maximise objectives* [[link](https://www.goodreads.com/en/book/show/44767248-human-compatible)]. New approaches to research like this will hopefully help pave the way to *safer* AI.
 
 Finally, policies to regulate this rapidly developing field need to urgently catch-up. Globally, governments are struggling to keep up [[link](https://www.weforum.org/agenda/2018/06/law-too-slow-for-new-tech-how-keep-up/)]. This means that large corporations have been able to forge ahead, making ethical decisions that affect all of us, without much oversight [[link](https://www.nature.com/articles/d41586-019-01413-1)]. This problem needs to be addressed by attracting more smart minds into the field of AI policy and regulation. Solving this challenge will require a diverse set of skills spanning countless domains such as law, psychology, neuroscience, ethics and politics. Figuring out how to develop safe and fair AI technology is likely to be the most important problem humanity will ever solve. Thus, it is far too *important* to be left to AI researchers alone.
+
+> Author: Claude Formanek
+
+> Acknowledgments: I would like to thank Sumaya Hussein, a law student at Strathmore University in Nairobi, for her insightful contributions on China's influence in Africa. Secondly, I would also like to thank Michael Chen for his valuable feedback.
