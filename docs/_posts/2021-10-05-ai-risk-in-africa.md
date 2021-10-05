@@ -5,6 +5,7 @@ categories:
 feature_image: "/assets/images/uct_banner.jpeg"
 ---
 > Author: Claude Formanek
+
 > Acknowledgments: I would like to thank Sumaya Hussein, a law student at Strathmore University in Nairobi, for her insightful contributions on China's influence in Africa. Secondly, I would also like to thank Michael Chen for his valuable feedback.
 
 Artificial intelligence (AI) is a collection of technologies that enable computer programs to act with higher levels of intelligence. From the recommender algorithm on YouTube to self-driving cars, AI can encompass any computer program which exhibits intelligent behavior.
