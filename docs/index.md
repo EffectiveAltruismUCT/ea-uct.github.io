@@ -6,7 +6,7 @@ feature_text:
 Effective altruism (EA) is a philosophy and global social movement focused on answering one question: How can we best help others?
 Our resources are limited, so we have to use them wisely.
 
-{% include figure.html image="/assets/images/ea_uct_logo.png" alt="EA UCT Logo" position="center" width=50% height=50% %}
+{% include figure.html image="/assets/images/ea_uct_logo.png" alt="EA UCT Logo" position="center" width="50%" height="50%" %}
 
 ### EA UCT is a local chapter of this movement dedicated to discussing and engaging with this idea.
 We host discussion groups, speaker events and panels.
