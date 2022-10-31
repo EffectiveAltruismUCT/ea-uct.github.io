@@ -39,6 +39,8 @@ navigation_header:
   url: /
 # - title: Posts
 #   url: /posts/
+- title: Comittee
+  url: /comittee/
 - title: Posts
   url: /categories/
 - title: Contact Us
