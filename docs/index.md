@@ -13,5 +13,5 @@ We host discussion groups, speaker events and panels.
 We collaborate with local and international non-profit organasitions.
 We write and publish content discussing and promoting EA ideas.
 
-{% include button.html text="Get Involved" link="https://www.effectivealtruismuct.com/contact/" %}
+{% include button.html text="Get Involved" link="https://www.effectivealtruismuct.com/contact/" position="center"%}
 
