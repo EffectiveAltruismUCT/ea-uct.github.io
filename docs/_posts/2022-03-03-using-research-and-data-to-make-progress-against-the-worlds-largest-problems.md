@@ -10,6 +10,6 @@ towards solving the world's largest problems.
 Our World in Data is a non-profit with the goal to make the knowledge on the world’s big problems accessible and understandable. 
 You can visit their website by clicking the link below.
 
-{% include figure.html image="/assets/images/max_roser.png" alt="Max Roser Talk at EA UCT" %}
+{% include figure.html image="/assets/images/Max Roser talk.png" alt="Max Roser Talk at EA UCT" %}
 
 {% include button.html text="Our World in Data" link="https://ourworldindata.org/" %}
