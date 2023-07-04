@@ -1,5 +1,5 @@
 ---
-title: Consulting Case Competition with the UCT Consulting Club
+title: Donovan Will and ProVeg South Africa
 categories:
 - Events
 feature_image: "/assets/images/uct_banner.jpeg"
