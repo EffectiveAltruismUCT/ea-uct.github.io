@@ -47,8 +47,8 @@ navigation_header:
   url: /contact/
 - title: Search
   url: /searcyh/
-- title: Quick Start
-  url: /Start/
+- title: Resources
+  url: /Resources/
 
 # Footer nav
 navigation_footer:
