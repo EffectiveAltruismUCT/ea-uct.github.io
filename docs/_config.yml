@@ -48,7 +48,7 @@ navigation_header:
 - title: Search
   url: /search/
 - title: Resources
-  url: /Resources/
+  url: /resources/
 
 # Footer nav
 navigation_footer:
